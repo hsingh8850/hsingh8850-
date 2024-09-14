@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Harshita Singh</h1>
-<img src="https://img.shields.io/twitter/follow/harshita_4119?logo=twitter&style=for-the-badge" alt="harshita_4119" /></a> </p>
 
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
